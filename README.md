@@ -1,1 +1,1 @@
-# laravel-kursas
+# Laravel Kursas
