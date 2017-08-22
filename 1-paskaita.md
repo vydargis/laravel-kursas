@@ -95,3 +95,5 @@ Hosts failo papildymas (C:\Windows\System32\drivers\etc\hosts):
 * https://atom.io/packages/linter-php (jeigu kode bus sintaksės klaidų ar pan., editorius raudonuos blogą vietą ir lieps taisyti)
 
 2. Peržiūrim 8 punkte išvardintas nuorodas. Pavaikštom po dokumentaciją, paskaitom naujienas, užsiprenumeruojam naujienlaiškį, patikrinam Laravel News FB puslapį, prisijunkim prie mano minėto pulso. Puiku būtų pasidairyti ir po nemokamas Laracasts video pamokas žinioms užtvirtinti. Kuo daugiau skirtingų šaltinių mokymuisi naudosit, tuo daugiau naudos gausit. Jeigu reikia pagalbos - aš visada jums pasiekiamas :)
+
+3. Užsiregistruojam https://www.codewars.com/, susikuriam savo profilį. Kadangi esate naujokai ir programavimo praktika yra labai reikalinga, kai jau žinote daug teorijos, pamėginkim laisvu laiku paspręsti įvairias užduotis JS ar PHP kalbomis. Kol kas laisvai, vėliau galėsim apie tai padiskutuoti daugiau, pasirinkti konkrečias užduotis visiems.
