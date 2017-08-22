@@ -72,6 +72,12 @@ Hosts failo papildymas (C:\Windows\System32\drivers\etc\hosts):
 127.0.0.1	laravel.dev
 ```
 
+Bonus: galimybė pasileisti bet kurį Laravel projektą išjungiant Xampp Apache serverį ir pasinaudojant komandine eilute:
+
+`php artisan serve`
+
+Vienu metu gali būti paleistas vienas projektas ir jis pasiekiamas adresu http://localhost:8000
+
 8. Laravel default welcome puslapio nuorodos: [dokumentacija](https://laravel.com/docs/5.4), [Laracasts](https://laracasts.com/), [Laravel News](https://laravel-news.com/), [Forge](https://forge.laravel.com)
 
 9. Laravel failų sistemos apžvalga
