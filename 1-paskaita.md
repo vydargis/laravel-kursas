@@ -18,7 +18,7 @@
 
 `echo. > FILE_PATH` - sukurti naują tuščią tekstinį failą
 
-5. Composer komandos, `composer.json` failas
+5. Composer komandos, `composer.json` failas, `vendor` direktorija
 
 `composer install` - įrašyti composer.json faile nurodytus paketus
 `composer require autorius/paketas` - pridėti naują paketą į jau egzistuojantį projektą
