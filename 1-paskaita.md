@@ -1,5 +1,9 @@
 # Laravel: 1 paskaita
 
+## Video
+
+[Paskaita nr. 1 - YouTube](https://www.youtube.com/watch?v=AHWGjm_3Dcs)
+
 ## Apie ką kalbėjome ir ką nuveikėme
 
 1. [PHP FIG](http://php-fig.org): [PSR1](http://www.php-fig.org/psr/psr-1/) (Basic Coding Standard), [PSR2](http://www.php-fig.org/psr/psr-2/) (Coding Style Guide)
@@ -81,10 +85,6 @@ Hosts failo papildymas (C:\Windows\System32\drivers\etc\hosts):
 12. Nauji Routes ir Views: /about (tekstas), /contact-us (kuriam paprastą kontaktinę formą su HTML)
 
 13. MVC (model-view-controller) patterno paaiškinimas
-
-## Video
-
-[Paskaita nr. 1 - YouTube](https://www.youtube.com/watch?v=AHWGjm_3Dcs)
 
 ## Užduotys
 
