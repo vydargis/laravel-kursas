@@ -70,7 +70,7 @@ Hosts failo papildymas (C:\Windows\System32\drivers\etc\hosts):
 
 8. Laravel default welcome puslapio nuorodos: [dokumentacija](https://laravel.com/docs/5.4), [Laracasts](https://laracasts.com/), [Laravel News](https://laravel-news.com/), [Forge](https://forge.laravel.com)
 
-9. Laravel failų struktūros apžvalga
+9. Laravel failų sistemos apžvalga
 
 11. Public katalogas, kuris yra pagrindinis web serveriui ir atėjusiam vartotojui: `public`
 
