@@ -68,7 +68,7 @@ Hosts failo papildymas (C:\Windows\System32\drivers\etc\hosts):
 127.0.0.1	laravel.dev
 ```
 
-8. Laravel default welcome puslapio nuorodos: (dokumentacija)[https://laravel.com/docs/5.4], (Laracasts)[https://laracasts.com/], (Laravel News)[https://laravel-news.com/], (Forge)[https://forge.laravel.com]
+8. Laravel default welcome puslapio nuorodos: [dokumentacija](https://laravel.com/docs/5.4), [Laracasts](https://laracasts.com/), [Laravel News](https://laravel-news.com/), [Forge](https://forge.laravel.com)
 
 9. Laravel failų struktūros apžvalga
 
