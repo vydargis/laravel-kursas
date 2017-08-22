@@ -2,7 +2,7 @@
 
 ## Apie ką kalbėjome ir ką nuveikėme
 
-1. [PHP FIG](https://php-fig.org): PSR1 (Basic Coding Standard), PSR2 (Coding Style Guide)
+1. [PHP FIG](http://php-fig.org): [PSR1](http://www.php-fig.org/psr/psr-1/) (Basic Coding Standard), [PSR2](http://www.php-fig.org/psr/psr-2/) (Coding Style Guide)
 
 2. [Composer](https://getcomposer.org): PHP paketų valdymo įrankis, diegimas savo kompiuteryje
 
