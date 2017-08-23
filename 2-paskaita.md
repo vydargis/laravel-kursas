@@ -44,4 +44,40 @@
 
 ## Užduotys
 
-Bus papildyta.
+1. `About` puslapyje norime išsivesti savo įgūdžius, galutinis rezultatas šabloniškai gali atrodyti taip:
+
+```
+HTML ***** (10 metų)
+CSS ***** (10 metų)
+JavaScript ***** (5 metai)
+PHP ***** (10 metų)
+Laravel * (dar tik mokausi...)
+```
+
+Kiekvieno įgūdžio įrašo struktūra:
+
+- Kalba / įrankis / įgūdis
+
+- Įvertinimas skaitine reikšme nuo 1 iki 5
+
+- Trumpas komentaras, tekstas
+
+Reikalavimai:
+
+- Panaudoti HTML sąrašą
+
+- Panaudoti CSS žinias ir sava nuožiūra suteikti stilių sukurtam sąrašui (spalvos, dydžiai, pozicijos, etc)
+
+- Panaudoti PHP masyvus
+
+- Panaudoti Blade ciklus
+
+- Įgūdžio įvertinimas turi būti pakeičiamas atitinkamu skaičiumu žvaigždučių
+
+Bonus:
+
+- Vietoj žvaigždučių panaudoti ikonėles iš [Bootstrap](https://getbootstrap.com/docs/3.3/components/) (kuris jau yra įdiegtas) arba prisidėti [FontAwesome](http://fontawesome.io/) (sudėtingiau).
+
+- Vietoj pagrindinio masyvo, kuriame laikomi visi įrašai, panaudoti [Collections](https://laravel.com/docs/5.4/collections).
+
+- Labai vertinu kūrybą ir improvizaciją. Tai bet koks nukrypimas ar papildymas pagal save - labai laukiamas!
